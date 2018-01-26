@@ -2,13 +2,13 @@
 # avatar
 avatar: /avatar/kumamon.jpg
 # author name
-author: fi3ework
+author: Yufan
 # signature
-signature: witness me
+signature: biu biu biu~
 # SNS
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: work.yufan@qq.com
+  github: //github.com/yufan-zhao
   weibo:
   # zhihu:
   # douban:
@@ -22,7 +22,6 @@ social:
 # friends
 friends:
   friendA: //www.baidu.com
-  friendB: //www.google.com
   # friendC :
 about:
   enable: true
@@ -30,11 +29,11 @@ about:
 
 # ========== Site ========== #
 # title of the site
-SEO_title: fi3ework's Studio
+SEO_title: Yufan's Blog
 # main title
-main_title: fi3ework's Studio.
+main_title: Yufan's Blog.
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: Stay simple, stay naive
 # site haeder image
 site_header_image: 'http://oumn0o088.bkt.clouddn.com/intro-desktop.jpg'
 # post haeder image
